@@ -1,0 +1,6 @@
+{
+  "name": "USA Job Connect",
+  "description": "Ultra-premium USA job lead generation and career discovery platform connecting job seekers with leading American employers across all 50 states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
